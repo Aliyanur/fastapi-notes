@@ -59,3 +59,4 @@ async def read_notes(db: AsyncSession=Depends(get_db)):
     notes= result.scalars().all()
     return notes
 
+

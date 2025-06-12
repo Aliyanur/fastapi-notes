@@ -69,3 +69,5 @@ async def login(user: UserLogin, db: AsyncSession = Depends(get_db)):
     if not db_user or db_user.password != user.password:
         raise HTTPException(status_code=401, detail="Invalid username or password")
     return {"message": "Login successful", "username": db_user.username}
+
+#Aliya
