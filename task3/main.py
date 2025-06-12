@@ -25,7 +25,7 @@ class User(Base):
     __tablename__ = "users"
     id = Column(Integer, primary_key=True, index=True)
     username = Column(String, unique=True, nullable=False)
-    password = Column(String, nullable=False)  # храним хеш
+    password = Column(String, nullable=False)
 
 class UserCreate(BaseModel):
     username: str
@@ -40,7 +40,7 @@ class UserOut(BaseModel):
     username: str
 
     class Config:
-        from_attributes = True  # для pydantic v2
+        from_attributes = True
 
 app = FastAPI()
 
