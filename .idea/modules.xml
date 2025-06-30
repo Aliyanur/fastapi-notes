@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/10 practical projects.iml" filepath="$PROJECT_DIR$/.idea/10 practical projects.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/FastAPI.iml" filepath="$PROJECT_DIR$/.idea/FastAPI.iml" />
+>>>>>>> f0217bc6e101ef014933b5da14a671b6e3c511a6
+    </modules>
+  </component>
+</project>
