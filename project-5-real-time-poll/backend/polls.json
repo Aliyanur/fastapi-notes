@@ -1,0 +1,46 @@
+{
+  "poll2": {
+    "question": "What is your favorite soup?",
+    "options": {
+      "option1": {
+        "label": "Chicken soup",
+        "votes": 0
+      }
+    }
+  },
+  "poll3": {
+    "question": "What is your favorite soup?",
+    "options": {
+      "option1": {
+        "label": "Chicken soup",
+        "votes": 0
+      }
+    }
+  },
+  "poll4": {
+    "question": "What is your favorite soup?",
+    "options": {
+      "option1": {
+        "label": "Chicken soup",
+        "votes": 0
+      }
+    }
+  },
+  "poll5": {
+    "question": "What is your favorite subject?",
+    "options": {
+      "option1": {
+        "label": "Math",
+        "votes": 0
+      },
+      "option2": {
+        "label": "Love",
+        "votes": 0
+      },
+      "option3": {
+        "label": "Sleep",
+        "votes": 0
+      }
+    }
+  }
+}
